@@ -46,6 +46,7 @@
 具体代码实现参见仓库：[分布式框架自己动手实现](https://github.com/xiajunhust/tinywheel)
 
 ## 系统设计网络课程汇总
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)。github star164K，理论+实践涵盖范围都非常齐全。强烈推荐。
 - [grokking-the-system-design-interview](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5749180081373184)  
 Educative的付费的全英文视频课程，课程中涵盖了Dropbox, Twitter, Facebook Messenger, Uber大厂的很多实战案例，部分章节是免费的。  
 ![课程概要](https://github.com/xiajunhust/system-design-interview/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%96%99/grokking-the-system-design-interview.png)
