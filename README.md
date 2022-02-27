@@ -1,6 +1,6 @@
 # system-design-interview
 
-致力于打造全网最全的系统设计面试指南.
+致力于打造全网最全的系统设计面试指南，欢迎大家提PR贡献一起打造。
 
 包含内容:  
 
@@ -17,12 +17,14 @@
 ## 系统设计电子书
 
 - 《Designing Data-intensive Applications》/《数据密集型应用设计》
-- grok_system_design_interview 
-- Grokking+System+Design
-- cheatsheet-systemdesign-A4
-- Guide to Reliable Distributed Systems-ppt
-- Microservice.Patterns
-- Reliable Distributed Systems
+- 《grok_system_design_interview 》
+- 《Grokking+System+Design》
+- 《cheatsheet-systemdesign-A4》
+- 《Guide to Reliable Distributed Systems-ppt》
+- 《Microservice.Patterns》
+- 《Reliable Distributed Systems》
+- 《500 lines or less》。如何用500行以下代码实现分布式系统
+- 《The Architecture of Open Source Applications 1》
 
 ## 系统设计大厂面试题及思路讲解
 
@@ -34,6 +36,16 @@
 - 聊天室
 
 具体代码实现参见仓库：[分布式框架自己动手实现](https://github.com/xiajunhust/tinywheel)
+
+## 系统设计网络课程汇总
+- [grokking-the-system-design-interview[(https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5749180081373184)  
+Educative的付费的全英文视频课程，课程中涵盖了Dropbox, Twitter, Facebook Messenger, Uber大厂的很多实战案例，部分章节是免费的。  
+![课程概要](https://github.com/xiajunhust/system-design-interview/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%96%99/grokking-the-system-design-interview.png)
+- [九章系统设计班](https://www.jiuzhang.com/course/77/?source=rw)  
+付费的中文课程，设计实例涵盖了google 三驾马车、Facebook Messenger, Uber, Yelp, 短网址等系统设计。
+- [System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)  
+免费的英文课程，教你如何应对技术面试中的系统设计环节。
+- 
 
 ---
 
