@@ -5,8 +5,12 @@
 包含内容:  
 
 - 系统设计相关电子书资料
+- 系统设计在线课程
 - 系统设计大厂面试题及参考答案合集
 - 典型系统设计源码实现
+- 经典论文
+- 开源项目
+- 优秀博客
 
 系统设计面试评分标准  
 ![系统设计面试评分标准](https://github.com/xiajunhust/system-design-interview/blob/main/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86.png)
