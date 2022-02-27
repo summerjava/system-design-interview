@@ -59,7 +59,13 @@ Educative的付费的全英文视频课程，课程中涵盖了Dropbox, Twitter,
 - [斯坦福分布式系统讨论课](http://www.scs.stanford.edu/20sp-cs244b/)
 - [华盛顿大学分布式系统课程-UW CSE490H: Distributed Systems](https://courses.cs.washington.edu/courses/cse490h/11wi/)
 
-## 开源项目
+## 开源项目  
+- [RocketsDB](http://rocksdb.org/)
+- [LevelDB](https://github.com/google/leveldb)
+- [Hbase](https://hbase.apache.org/)
+- [dynamodb](https://aws.amazon.com/cn/dynamodb/)
+- [Flink](https://flink.apache.org/)
+- [Spark](https://spark.apache.org/)
 
 ## 优秀博客资料  
 - [Jeff Hodges写给分布式系统初学者的笔记](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
@@ -67,7 +73,7 @@ Educative的付费的全英文视频课程，课程中涵盖了Dropbox, Twitter,
 - [胡津铭 组织的系统学习小组](https://learn-sys.github.io/cn/)
 - [http://systemdesigns.blogspot.com/](http://systemdesigns.blogspot.com/)
 
-## 论文
+## 经典论文
 
 ---
 
