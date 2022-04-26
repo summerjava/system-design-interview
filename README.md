@@ -1,6 +1,6 @@
 # system-design-interview
 
-致力于打造全网最全的系统设计面试指南，欢迎大家提PR贡献一起打造。
+<b>致力于打造全网最全的系统设计面试指南，欢迎大家提PR贡献一起打造。</b>
 
 包含内容:  
 
@@ -31,6 +31,7 @@
 - 《The Architecture of Open Source Applications 1》
 
 ## [系统设计大厂面试题及思路讲解](https://github.com/xiajunhust/system-design-interview/tree/main/%E5%A4%A7%E5%8E%82%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98)
+- [大厂系统设计面试步骤指引](https://github.com/xiajunhust/system-design-interview/blob/main/%E5%A4%A7%E5%8E%82%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E6%AD%A5%E9%AA%A4%E6%8C%87%E5%BC%95.md)
 - 分布式ID的生成
 - 类似新浪微博短链接系统设计
 - Instagram的数据存储
