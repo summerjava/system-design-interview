@@ -1,4 +1,6 @@
 # 大厂系统设计面试真题
+## 系统设计面试步骤指引  
+[大厂系统设计面试步骤指引](https://github.com/xiajunhust/system-design-interview/blob/main/%E5%A4%A7%E5%8E%82%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E6%AD%A5%E9%AA%A4%E6%8C%87%E5%BC%95.md)
 ## 分布式ID的生成  
 常见如交易号等都需要生成分布式唯一ID。  
 思路：  
