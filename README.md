@@ -39,10 +39,14 @@
 - 网络爬虫
 
 ## 典型系统设计源码实现
-- RPC框架
-- spring ioc
-- http服务器
-- 聊天室
+- 利用原生Java nio实现cs通信程序
+- 基于Netty实现RPC框架
+- 分布式消息队列设计与实现
+- 基于Netty实现http server
+- 基于netty websocket实现聊天工具
+- 实现Spring IOC容器
+- 基于顺序日志的KV数据库
+- 从0实现数据库连接池
 
 具体代码实现参见仓库：[分布式框架自己动手实现](https://github.com/xiajunhust/tinywheel)
 
