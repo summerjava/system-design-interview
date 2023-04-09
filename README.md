@@ -63,6 +63,7 @@ Educative的付费的全英文视频课程，课程中涵盖了Dropbox, Twitter,
 免费，谷歌大牛梳理的系统设计课程，共11节，其中还有模拟面试环节。
 - [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos)  
 免费，来自YouTube的系统设计课程。
+- [Tushar Roy - Coding Made Simple-诸多系统设计案例讲解](https://www.youtube.com/@tusharroy2525)
 - [MIT公开课-MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [剑桥大学的并发和分布式课程，DDIA 作者 Martin Kleppmann 主讲](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/materials.html)
 - [CMU 15-440: Distributed Systems](https://www.cs.cmu.edu/~dga/15-440/S14/syllabus.html)
