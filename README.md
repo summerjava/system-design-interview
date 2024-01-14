@@ -96,7 +96,8 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 具体代码实现参见仓库：[分布式框架自己动手实现](https://github.com/xiajunhust/tinywheel)
 
-## SDE 学习体系化学习路线
+## SDE 学习体系化学习路线  
+[北美🇺🇸SDE 体系化学习&面试规划路线](https://github.com/summerjava/system-design-interview/blob/main/%F0%9F%87%BA%F0%9F%87%B8SDE%E5%AD%A6%E4%B9%A0%26%E9%9D%A2%E8%AF%95%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92.pdf)
 
 ---
 ***如果需要北美SDE项目辅导、面试辅导、简历修改也可以联系我哦~~【V：meta1101】***。
