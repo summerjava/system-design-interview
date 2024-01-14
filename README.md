@@ -44,7 +44,7 @@
 - [grokking-the-system-design-interview](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5749180081373184)  
 Educative的付费的全英文视频课程，课程中涵盖了Dropbox, Twitter, Facebook Messenger, Uber大厂的很多实战案例，部分章节是免费的。  
 ![课程概要](https://github.com/xiajunhust/system-design-interview/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%96%99/grokking-the-system-design-interview.png)
-- [github-system design-bytebytego]([https://www.jiuzhang.com/course/77/?source=rw](https://github.com/ByteByteGoHq/system-design-101))  
+- [github-system design-bytebytego](https://github.com/ByteByteGoHq/system-design-101)  
 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. 
 - [System Design for Tech Interviews](https://www.hiredintech.com/courses/system-design)  
 免费的英文课程，教你如何应对技术面试中的系统设计环节。
