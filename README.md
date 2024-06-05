@@ -102,5 +102,5 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 ---
 ***如果需要北美SDE项目辅导、面试辅导、简历修改也可以联系我哦~~【V：meta1101】***。
 
-![欢迎大家关注我的公众号](https://github.com/xiajunhust/awosome-cs/blob/main/QR-CODE.jpg)
+![个人wx](https://github.com/summerjava/awosome-cs/blob/main/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)
 
