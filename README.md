@@ -26,7 +26,8 @@
 - 《Grokking+System+Design》
 - 《cheatsheet-systemdesign-A4》
 - 《System Design Interview An Insider’s Guide by Alex Xu》
-- 《system-design-interview-an-insiders-guide-volume-2》
+- [《System Design Interview An Insider’s Guide by Alex Xu》中文翻译](https://github.com/Admol/SystemDesign)
+- 《system-design-interview-an-insiders-guide by Alex Xu volume-2》
 - 《Guide to Reliable Distributed Systems-ppt》
 - 《Microservice.Patterns》
 - 《Reliable Distributed Systems》
