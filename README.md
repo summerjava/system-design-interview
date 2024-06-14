@@ -40,6 +40,7 @@
 
 ## 系统设计网络课程汇总
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)。github star164K，理论+实践涵盖范围都非常齐全。强烈推荐。
+- [Youtube-Designing Data Intensive applications book review](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)。DDIA书籍基础概览，总结了这本书的精华内容，每个视频20分钟左右，适合时间不多想突击的同学打打基础。
 - [System Design for Beginners-Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 零基础转码系统设计入门，这位印度小哥的讲解通俗易懂，而且topic 很多。
 - [grokking-the-system-design-interview](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5749180081373184)  
@@ -54,6 +55,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 - [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos)  
 免费，来自YouTube的系统设计课程。
 - [Tushar Roy - Coding Made Simple-诸多系统设计案例讲解](https://www.youtube.com/@tusharroy2525)
+- [Google Systems Design Interview With An Ex-Googler](https://www.youtube.com/watch?v=q0KGYwNbf-0)。讲述系统设计模拟面试。
 - [github-soulmachine-系统设计面试题精选](https://github.com/soulmachine/system-design)
 - [system-design-interview-exponent](https://www.tryexponent.com/courses/system-design-interview)
 暂时付费的，主要是 mock interview。
@@ -62,6 +64,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 - [CMU 15-440: Distributed Systems](https://www.cs.cmu.edu/~dga/15-440/S14/syllabus.html)
 - [斯坦福分布式系统讨论课](http://www.scs.stanford.edu/20sp-cs244b/)
 - [华盛顿大学分布式系统课程-UW CSE490H: Distributed Systems](https://courses.cs.washington.edu/courses/cse490h/11wi/)
+- 一些经典面试题讲解：[TopK frequent items](https://www.youtube.com/watch?v=kx-XDoPjoHw)、[Distributed Loggin system](https://www.youtube.com/watch?v=WzHgOl3xvu4)、[Design web crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y)、[Architecture of Amazon, Flipkart like e-commerce system](https://www.youtube.com/watch?v=2BWr0fsDSs0)、[系统设计-短链生成系统-TinyURL](https://www.bilibili.com/video/BV1dy4y1E7A3/)
 
 ## 开源项目  
 - [RocketsDB](http://rocksdb.org/)
@@ -76,6 +79,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 - [分布式系统理论学习](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 - [胡津铭 组织的系统学习小组](https://learn-sys.github.io/cn/)
 - [http://systemdesigns.blogspot.com/](http://systemdesigns.blogspot.com/)
+- [luanjunyi](https://luanjunyi.medium.com/the-table-of-contents-416d2240fa8e).讲述了面试可能涉及的一些细节和trade-off.
 
 ## [系统设计大厂面试题及思路讲解](https://github.com/xiajunhust/system-design-interview/tree/main/%E5%A4%A7%E5%8E%82%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98)
 - [大厂系统设计面试步骤指引](https://github.com/xiajunhust/system-design-interview/blob/main/%E5%A4%A7%E5%8E%82%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E6%AD%A5%E9%AA%A4%E6%8C%87%E5%BC%95.md)
