@@ -40,6 +40,7 @@
 - ![System Design Master Template](https://github.com/summerjava/system-design-interview/blob/main/%E6%89%8B%E5%86%8C/System%20Design%20Master%20Template.JPG)
 
 ## 系统设计网络课程汇总
+- Neetcode的System Design基础课程和Interview课程。根据后面的微信私聊获取哈。
 - [System Design for Beginners-Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 零基础转码系统设计入门，这位印度小哥的讲解通俗易懂，而且topic 很多。
 - [Scott Shi's System Design Seminar](https://www.youtube.com/playlist?app=desktop&list=PLAd5bt5mn3V3TrrJFBpnu4PH9e8KZMvNA)  
