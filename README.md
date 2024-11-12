@@ -120,3 +120,12 @@ An updated and organized reading list for illustrating the patterns of scalable,
 个人微信QRCode：  
 ![个人wx](https://github.com/summerjava/awosome-cs/blob/main/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)
 
+## Star History
+
+<a href="https://star-history.com/#summerjava/system-design-interview&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=summerjava/system-design-interview&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=summerjava/system-design-interview&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=summerjava/system-design-interview&type=Date" />
+  </picture>
+</a>
