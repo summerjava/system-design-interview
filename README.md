@@ -115,7 +115,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 [北美🇺🇸SDE 体系化学习&面试规划路线](https://github.com/summerjava/system-design-interview/blob/main/%F0%9F%87%BA%F0%9F%87%B8SDE%E5%AD%A6%E4%B9%A0%26%E9%9D%A2%E8%AF%95%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92.pdf)
 
 ---
-***如果需要北美SDE的一对一辅导（项目辅导、面试辅导、简历修改）也可以联系我哦~~【V：meta1101】***。
+***如果需要SDE（普通SDE以及AI应用&Agent开发）的一对一辅导（项目辅导、面试辅导、简历修改）也可以联系我哦~~【V：meta1101】***。
 
 个人微信QRCode：  
 ![个人wx](https://github.com/summerjava/awosome-cs/blob/main/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)
