@@ -38,9 +38,9 @@
 ## 系统设计手册指南
 - ![System Design Blueprint - The Ultimate Guide](https://github.com/summerjava/system-design-interview/blob/main/%E6%89%8B%E5%86%8C/System%20Design%20Blueprint%20-%20The%20Ultimate%20Guide.jpg)
 - ![System Design Master Template](https://github.com/summerjava/system-design-interview/blob/main/%E6%89%8B%E5%86%8C/System%20Design%20Master%20Template.JPG)
-- ![bytebytego-Engineering Visual Guides](https://bytebytego.com/guides/)
 
 ## 系统设计网络课程汇总
+- [bytebytego-Engineering Visual Guides](https://bytebytego.com/guides/)
 - Neetcode的System Design基础课程和Interview课程。根据后面的微信私聊获取哈。
 ![System Design-neetcode-1](https://github.com/summerjava/system-design-interview/blob/main/pic/System%20Design-neetcode-1.jpg)
 ![System Design-neetcode-2](https://github.com/summerjava/system-design-interview/blob/main/pic/System%20Design-neetcode-2.jpg)
@@ -111,6 +111,17 @@ An updated and organized reading list for illustrating the patterns of scalable,
 - 从0实现数据库连接池
 
 主要起教学的作用，方便理解原理。具体代码实现参见仓库：[分布式框架自己动手实现](https://github.com/xiajunhust/tinywheel)
+
+## 资料获取
+
+大部分资料都可以从仓库中获取，少部分付费资料可以付点工本费拿到嘞：  
+![系统设计全套资料](https://github.com/summerjava/system-design-interview/blob/main/pic/System_Design_ALL.jpg)
+
+
+```
+【闲鱼】https://m.tb.cn/h.iP6k0JQ?tk=PQR353IUbio CZ009 「我在闲鱼发布了【系统设计全套资料包】」
+点击链接直接打开
+```
 
 # SDE 学习体系化学习路线  
 [北美🇺🇸SDE 体系化学习&面试规划路线](https://github.com/summerjava/system-design-interview/blob/main/%F0%9F%87%BA%F0%9F%87%B8SDE%E5%AD%A6%E4%B9%A0%26%E9%9D%A2%E8%AF%95%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92.pdf)
