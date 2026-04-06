@@ -38,6 +38,7 @@
 ## 系统设计手册指南
 - ![System Design Blueprint - The Ultimate Guide](https://github.com/summerjava/system-design-interview/blob/main/%E6%89%8B%E5%86%8C/System%20Design%20Blueprint%20-%20The%20Ultimate%20Guide.jpg)
 - ![System Design Master Template](https://github.com/summerjava/system-design-interview/blob/main/%E6%89%8B%E5%86%8C/System%20Design%20Master%20Template.JPG)
+- ![bytebytego-Engineering Visual Guides](https://bytebytego.com/guides/)
 
 ## 系统设计网络课程汇总
 - Neetcode的System Design基础课程和Interview课程。根据后面的微信私聊获取哈。
